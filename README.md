@@ -2,7 +2,7 @@
 
 **Edit, sign, convert, OCR and protect PDFs on your own PC. Your files are never uploaded.** Built for offices where one invoice mixes English and Arabic.
 
-[**Website**](https://getmadtools.com/madpdf/?s=github) · [**Download for Windows**](https://getmadtools.com/madpdf/download.php?s=github) · [Guides](https://getmadtools.com/guides/?s=github) · [Privacy](https://getmadtools.com/privacy.html)
+[**Website**](https://getmadtools.com/madpdf/?s=github) · [**Download for Windows**](https://getmadtools.com/madpdf/download.php?s=github) · [**Microsoft Store**](https://getmadtools.com/madpdf/download.php?to=store&s=github) · [Guides](https://getmadtools.com/guides/?s=github) · [Privacy](https://getmadtools.com/privacy.html)
 
 Free download · Windows 10 / 11 (64-bit) · no account · works offline · English and Arabic interface
 
@@ -38,9 +38,10 @@ Free download · Windows 10 / 11 (64-bit) · no account · works offline · Engl
 
 ## Download
 
+- **[Get it from the Microsoft Store](https://getmadtools.com/madpdf/download.php?to=store&s=github)**: installs with no Windows warning and the Store keeps it up to date.
 - **[Installer (latest)](https://getmadtools.com/madpdf/download.php?s=github)**, or pick a version under [Releases](https://github.com/mahadyusufitfort-hue/madpdf-releases/releases).
 - Deploying to many PCs? Use the MSI from Releases: `msiexec /i MadPDF-<version>-x64.msi /qn ALLUSERS=1`
-- If Windows shows "Windows protected your PC", click **More info → Run anyway**. That is normal for a new app from a small publisher.
+- If the installer makes Windows show "Windows protected your PC", click **More info → Run anyway**. That is normal for a new app from a small publisher.
 
 MadPDF checks for new versions and offers to install them.
 
