@@ -1,12 +1,12 @@
-# MadPDF: offline PDF editor for Windows (English & Arabic)
+# MadPDF: free offline PDF editor for Windows (English & Arabic)
 
-**Edit, sign, convert, OCR and protect PDFs on your own PC. Your files are never uploaded.** Built for offices where one invoice mixes English and Arabic.
+**Edit, sign, merge, compress, convert, OCR and protect PDFs on your own PC. Free, no account, no watermark, and your files are never uploaded.** Built for offices where one invoice mixes English and Arabic.
 
 [**Website**](https://getmadtools.com/madpdf/?s=github) · [**Download for Windows**](https://getmadtools.com/madpdf/download.php?s=github) · [**Microsoft Store**](https://getmadtools.com/madpdf/download.php?to=store&s=github) · [Guides](https://getmadtools.com/guides/?s=github) · [Privacy](https://getmadtools.com/privacy.html)
 
-Free download · Windows 10 / 11 (64-bit) · no account · works offline · English and Arabic interface
+Free download · Windows 10 / 11 (64-bit) · no account · no watermark · works offline · English and Arabic interface
 
-![MadPDF home screen](https://getmadtools.com/madpdf/images/home.jpg)
+![MadPDF with a quotation open and the All tools list](https://getmadtools.com/madpdf/images/shot-tools.jpg)
 
 ## What it does
 
@@ -16,8 +16,9 @@ Free download · Windows 10 / 11 (64-bit) · no account · works offline · Engl
 | **Comments & markup** | Sticky notes, highlight, underline, strike-through, stamps and drawing tools, all in one comments panel. |
 | **Fill & Sign, forms** | Fill any form, add your signature or initials, or build your own form with automatic field detection. |
 | **Organize pages** | Combine (merge), split, extract, insert, rotate, reorder and delete pages in a page grid. |
+| **Compress a PDF** | Reduce the file size for email and upload portals, offline: images downsampled and recompressed, duplicate fonts and images merged. |
 | **Create PDF** | Turn Word, Excel and PowerPoint files or images into PDF. Office files need the free LibreOffice on the same PC. |
-| **Export to Office** | Get a PDF back into Word, Excel or PowerPoint. |
+| **Export** | Get a PDF back into Word (.docx) or PowerPoint, or save it as RTF, text, HTML or images. |
 | **Scan & OCR** | Recognise text in scans and photos, in **English and Arabic**, and save searchable PDFs. |
 | **Protect & redact** | Passwords, print/copy restrictions, permanent redaction and removal of hidden information. |
 | **Digital signatures** | Sign with a certificate, add a trusted timestamp, and keep signatures verifiable with long-term validation (LTV). |
@@ -32,9 +33,9 @@ Free download · Windows 10 / 11 (64-bit) · no account · works offline · Engl
 - Arabic letters joined and ordered correctly, in English and Arabic documents alike.
 - Type right to left and edit Arabic text that is already in a PDF.
 - Arabic OCR turns scanned pages into searchable text.
-- Word and Excel exports keep Arabic right to left.
+- Word exports keep Arabic right to left.
 
-![English and Arabic invoice in MadPDF](https://getmadtools.com/madpdf/images/arabic-invoice.jpg)
+![MadPDF with its interface in Arabic, right to left](https://getmadtools.com/madpdf/images/shot-arabic.jpg)
 
 ## Download
 
@@ -51,9 +52,14 @@ Opening, editing, OCR, signing and saving all happen on your PC. There is no acc
 
 ## Guides
 
-- [How to edit an Arabic PDF on Windows](https://getmadtools.com/guides/edit-arabic-pdf/?s=github)
-- [How to convert a scanned Arabic PDF to Word with OCR](https://getmadtools.com/guides/ocr-arabic-pdf-to-word/?s=github)
-
+- [How to edit a PDF on Windows for free](https://getmadtools.com/guides/edit-pdf-windows-free/)
+- [How to compress a PDF offline](https://getmadtools.com/guides/compress-pdf-offline/)
+- [How to convert PDF to Word offline](https://getmadtools.com/guides/pdf-to-word-offline/)
+- [How to merge and split PDF files offline](https://getmadtools.com/guides/merge-split-pdf-offline/)
+- [How to sign a PDF for free, offline](https://getmadtools.com/guides/sign-pdf-offline/)
+- [How to redact a PDF permanently](https://getmadtools.com/guides/redact-pdf-offline/)
+- [How to edit Arabic text in a PDF](https://getmadtools.com/guides/edit-arabic-pdf/)
+- [How to convert a scanned Arabic PDF to Word](https://getmadtools.com/guides/ocr-arabic-pdf-to-word/)
 ## Licences & support
 
 Team or business licence, or a question? Email **hello@getmadtools.com**, or use **Help → Send Feedback** inside MadPDF.
